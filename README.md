@@ -1,0 +1,1 @@
+I researched transitions. My demonstration shows that when you hover over the shape transtions to another shape. I used a transition timing function that eases in-and-out.
